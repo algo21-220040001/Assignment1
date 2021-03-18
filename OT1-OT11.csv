@@ -1,0 +1,2 @@
+,long_return,short_return,long_hedge_return,short_hedge_return,LS_return,long_sharpe,long_hedge_sharpe,LS_sharpe,IC_mean,IC_std,IR,IC_t_test,IC_p_val,IC_skew,IC_kurtosis
+z_quality,0.975007734,-0.07728611,0.31900629,-0.384545167,2.124638241,0.718312557,0.116316884,1.462499547,0.101512356,0.0709702,1.430351829,49.87807333,2.22E-296,0.627938302,-0.465567688
